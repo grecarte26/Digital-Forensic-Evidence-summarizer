@@ -53,4 +53,4 @@ This project is developed for **Prof. Douglas** for use in demonstrating the rol
 
 ---
 
-*Made with ❤️ by Jerson Recarte*
+*Made by Jerson Recarte*
